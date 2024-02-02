@@ -4,7 +4,7 @@
   openModalButton.addEventListener('click', openModal);
 
   function openModal() {
-    modal.style.display = 'flex';
+    modal.style.display = 'block';
   }
 
   window.onclick = function(event) {
